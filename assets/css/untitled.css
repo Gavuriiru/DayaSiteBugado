@@ -14,3 +14,17 @@ a {
   color: rgb(255, 255, 255);
 }
 
+.navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+  color: #fff;
+  background: rgb(113, 54, 138);
+}
+
+.nav-item > a:hover {
+  color: white!important;
+  background-color: rgb(113, 54, 138);
+}
+
+.pika {
+  border-radius: 25px;
+}
+
