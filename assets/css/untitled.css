@@ -1,0 +1,16 @@
+a:hover {
+  color: rgb(255, 255, 255);
+}
+
+a:active, a:focus, a:hover {
+  color: rgb(255, 255, 255);
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+  color: rgb(255, 255, 255);
+}
+
