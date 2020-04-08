@@ -24,7 +24,7 @@ a {
   background-color: rgb(113, 54, 138);
 }
 
-.pika {
-  border-radius: 25px;
+.rounded {
+  border-radius: .25rem!important;
 }
 
