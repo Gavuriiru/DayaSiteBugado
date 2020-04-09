@@ -1,30 +1,10 @@
-a:hover {
-  color: rgb(255, 255, 255);
-}
-
-a:active, a:focus, a:hover {
-  color: rgb(255, 255, 255);
-}
-
-a {
-  color: rgb(255, 255, 255);
-}
-
-#mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-  color: rgb(255, 255, 255);
-}
-
-.navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-  color: #fff;
-  background: rgb(113, 54, 138);
+.nav-item > a:hover, .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+  color: white;
+  background-color: rgb(113, 54, 138);
+  cursor: pointer;
 }
 
 .nav-item > a:hover {
   color: white!important;
-  background-color: rgb(113, 54, 138);
-}
-
-.rounded {
-  border-radius: .25rem!important;
 }
 

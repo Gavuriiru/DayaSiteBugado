@@ -3,6 +3,6 @@
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active {
-  background: rgb(255, 255, 255);
+  background: #f8f9fa;
 }
 
